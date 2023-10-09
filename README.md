@@ -64,6 +64,10 @@
     <img src="https://skillicons.dev/icons?i=unity,unreal,arduino&theme=dark" />
   </a>
 </div>
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ioanne&theme=tokyonight" />
+</p>
+
 <div align="center">
   <details>
     <summary>Lenguajes de Programación Más Utilizados</summary>
