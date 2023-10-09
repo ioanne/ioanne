@@ -1,7 +1,7 @@
 <h2 align="center">Hello! I 👋 am Juan Ignacio Bonini.</h2>
 <h4 align="left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0db7ed&lines=Full+stack+developer;Continuous+self-improvement;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0078D4&lines=Full+stack+developer;Continuous+self-improvement;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 </h4>
 <span align="left"><p>I'm a passionate Full Stack software developer with a strong commitment to continuous self-improvement.</p>
 
