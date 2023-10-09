@@ -10,6 +10,7 @@
 </div>
 <div align="center">
   <h2 align="center">Statistics</h2>
+  <h5 align="center"> Python | PostgreSQL|  HTML | CSS | Javascript | TypeScrip | React | Git/GitHub | Docker | Go </h5>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ioanne&theme=tokyonight" />
 </div>
 <div align="center">
@@ -17,7 +18,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-<h5 align="center"> Python | PostgreSQL|  HTML | CSS | Javascript | TypeScrip | React | Git/GitHub | Docker | Go </h5>
 <br clear="both">
 <div align="center">
   <h2 align="center">Workspace</h2>
