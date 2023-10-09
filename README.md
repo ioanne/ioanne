@@ -60,5 +60,10 @@ In my most recent experience, I am currently working at Teamcubation on a new pr
     <summary>Lenguajes de Programación Más Utilizados</summary>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioanne&layout=compact&langs_count=20&theme=city_lights" align="center" />
   </details>
+
+  <a href="https://www.linkedin.com/in/juan-ignacio-bonini/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
   <img alingn="center" src="https://profile-counter.glitch.me/ioanne/count.svg" /></p>
 </div>
