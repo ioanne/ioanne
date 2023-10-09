@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/juan-ignacio-bonini/" target="_blank">
+    <a href="https://www.linkedin.com/in/juan-ignacio-bonini/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
