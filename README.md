@@ -1,24 +1,64 @@
-<h2 align="center"> Hola! 👋 Soy Juan Ignacio Bonini </h2>
-<h3 align="center"> Full stack developer </h3> 
+<h2 align="center">Hello! I 👋 am Juan Ignacio Bonini.</h2>
+<h4 align="left">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Full+stack+developer;Continuous+self-improvement;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
+</h4>
+<span align="left"><p>I'm a passionate Full Stack software developer with a strong commitment to continuous self-improvement.</p>
+
+In my most recent experience, I am currently working at Teamcubation on a new project focused on the development of a training tool, with the purpose of guiding and measuring the progress of beginner developers to help them achieve their best version. Previously, at Apptim, my work involved the creation of tools to automate testing and improve performance, with the goal of achieving continuous integration and the delivery of high-quality mobile applications.</span>
 <h5 align="center"> Python | PostgreSQL|  HTML | CSS | Javascript | TypeScrip | React | Git/GitHub | Docker | Go </h5>
-
-<br clear="both">
 <div align="center">
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="Python logo" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="PostgreSQL logo" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="HTML5 logo" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="CSS logo" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript logo" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="TypeScript logo" /></a>
-  <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" height="30" width="42" alt="React logo" /></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="Git logo" /></a>
-  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="GitHub logo" /></a>
+  <h2 align="center">Workspace</h2>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/mac-384d54?style=for-the-badge&logo=macOS&logoColor=white" />
+<img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/terminal-552233?style=for-the-badge&logo=powershell&logoColor=white" />
 
+</div>
 <br clear="both">
-<details>
-  <summary>Lenguajes de Programación Más Utilizados</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioanne&layout=compact&langs_count=20&theme=city_lights" align="center" />
-</details>
-
-<img alingn="center" src="https://profile-counter.glitch.me/ioanne/count.svg" /></p>
+<div align="left">
+<br clear="both">
+  <h2 align="left">Backend</h2> 
+  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,rabbitmq,tensorflow,js,go,cs,dotnet&theme=dark" />
+  </a>
+  <br clear="both">
+  <br clear="both">
+  <h2 align="left">Frontend</h2>
+  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,jquery&theme=dark" />
+  </a>
+  <br clear="both">
+  <br clear="both">
+  <h2 align="left">Databases</h2>
+  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" />
+  </a>
+  <br clear="both">
+  <br clear="both">
+  <h2 align="left">infrastructure</h2>
+  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
+    <img src="https://skillicons.dev/icons?i=aws,linux,nginx,kubernetes,docker,powershell&theme=dark" />
+  </a>
+  <br clear="both">
+  <br clear="both">
+  <h2 align="left">Version Management</h2>
+  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
+    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+  </a>
+  <br clear="both">
+  <br clear="both">
+  <h2 align="left">Hobby</h2>
+  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,arduino&theme=dark" />
+  </a>
+</div>
+<div align="center">
+  <details>
+    <summary>Lenguajes de Programación Más Utilizados</summary>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioanne&layout=compact&langs_count=20&theme=city_lights" align="center" />
+  </details>
+  <img alingn="center" src="https://profile-counter.glitch.me/ioanne/count.svg" /></p>
 </div>
