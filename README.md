@@ -9,6 +9,7 @@
 <p>In my most recent experience, I am currently working at Teamcubation on a new project focused on the development of a training tool, with the purpose of guiding and measuring the progress of beginner developers to help them achieve their best version. Previously, at Apptim, my work involved the creation of tools to automate testing and improve performance, with the goal of achieving continuous integration and the delivery of high-quality mobile applications.</p></span>
 </div>
 <div align="center">
+  <h2 align="center">Statistics</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ioanne&theme=tokyonight" />
 </div>
 <div align="center">
