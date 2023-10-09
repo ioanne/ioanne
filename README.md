@@ -9,17 +9,13 @@
 <p>In my most recent experience, I am currently working at Teamcubation on a new project focused on the development of a training tool, with the purpose of guiding and measuring the progress of beginner developers to help them achieve their best version. Previously, at Apptim, my work involved the creation of tools to automate testing and improve performance, with the goal of achieving continuous integration and the delivery of high-quality mobile applications.</p></span>
 </div>
 
-<div>
+<div align="center">
     <a href="https://www.linkedin.com/in/juan-ignacio-bonini/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 <h5 align="center"> Python | PostgreSQL|  HTML | CSS | Javascript | TypeScrip | React | Git/GitHub | Docker | Go </h5>
 <br clear="both">
-
-  <a href="https://www.linkedin.com/in/juan-ignacio-bonini/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 <div align="center">
   <h2 align="center">Workspace</h2>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
