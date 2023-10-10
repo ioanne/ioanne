@@ -49,7 +49,7 @@
   <br clear="both">
   <br clear="both">
   <h2 align="left">Version Management</h2>
-    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
   <br clear="both">
   <br clear="both">
   <h2 align="left">Hobby</h2>
