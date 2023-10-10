@@ -10,7 +10,7 @@
 </div>
 <div align="center">
   <h2 align="center"><a href="#">Statistics</a></h2>
-    <h5 align="center"> <a href="#">Python | PostgreSQL|  HTML | CSS | Javascript | TypeScrip | React | Git/GitHub | Docker | Go</a> </h5>
+    <h5 align="center"> <a href="#">Python | PostgreSQL|  HTML | CSS | Javascript | TypeScript | React | Git/GitHub | Docker | Go</a> </h5>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ioanne&theme=tokyonight" />
 </div>
 <div align="center">
