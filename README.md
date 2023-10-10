@@ -33,39 +33,27 @@
 <div align="left">
 <br clear="both">
   <h2 align="left">Backend</h2> 
-  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,rabbitmq,tensorflow,js,go,cs,dotnet&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,rabbitmq,tensorflow,js,go,cs,dotnet&theme=dark" />
   <br clear="both">
   <br clear="both">
   <h2 align="left">Frontend</h2>
-  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,jquery&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,jquery&theme=dark" />
   <br clear="both">
   <br clear="both">
   <h2 align="left">Databases</h2>
-  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" />
   <br clear="both">
   <br clear="both">
   <h2 align="left">infrastructure</h2>
-  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
-    <img src="https://skillicons.dev/icons?i=aws,linux,nginx,kubernetes,docker,powershell&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,linux,nginx,kubernetes,docker,powershell&theme=dark" />
   <br clear="both">
   <br clear="both">
   <h2 align="left">Version Management</h2>
-  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
     <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-  </a>
   <br clear="both">
   <br clear="both">
   <h2 align="left">Hobby</h2>
-  <a href="[https://skillicons.dev](https://scriptr.dev/cv/)">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,arduino&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,arduino&theme=dark" />
 </div>
 
 <div align="center">
