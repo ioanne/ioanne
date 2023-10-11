@@ -44,7 +44,7 @@
 <br clear="both">
 
 <div align="center">
-  <h2 align="center">I teach the following subjects.</h2>
+  <h2 align="center"><a href="#">I teach the following subjects.</a></h2>
   <a href="#">
     <img src="https://img.shields.io/badge/Paradigmas de programación-1157FF?style=for-the-badge&logo=python&logoColor=white" />
   </a>
