@@ -46,7 +46,7 @@
 <div align="center">
   <h2 align="center"><a href="#">I teach the following subjects.</a></h2>
   <a href="#">
-    <img src="https://img.shields.io/badge/Paradigmas de programación-1157FF?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Técnicas de programación-1157FF?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Programación Aplicada-1157FF?style=for-the-badge&logo=python&logoColor=white" />
@@ -56,6 +56,9 @@
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Backend-1157FF?style=for-the-badge&logo=django&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Técnicas Aplicada-1157FF?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </div>
 
